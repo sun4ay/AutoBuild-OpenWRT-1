@@ -24,7 +24,7 @@ on:
 env:
   REPO_URL: https://github.com/woodhead2019/openwrt
   REPO_BRANCH: master
-  CONFIG_FILE: .config
+  CONFIG_FILE: hg255d.config
   DIY_SH: custom.sh
   SSH_ACTIONS: false
   UPLOAD_BIN_DIR: false
